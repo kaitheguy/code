@@ -25,3 +25,8 @@ Route::get('/irc', function()
 {
 	return View::make('irc');
 });
+
+Route::get('/test', function()
+{
+	return View::make('test');
+});

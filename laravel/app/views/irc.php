@@ -10,7 +10,7 @@
 	$ident = "mrRoboto1";
 	$realname = "mrRoboto1";
 	$channel = "#test";
-
+	echo "kai was here";
 	if(!($sock = socket_create(AF_INET, SOCK_STREAM, 0)))
 	{
 		$errorcode = socket_lst_error();

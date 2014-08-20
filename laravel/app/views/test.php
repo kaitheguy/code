@@ -42,7 +42,7 @@
 	    }
 	}
 
-
+	//kai was here
 
 	$kai = new Person("Kai", "Pehrsson");
 	$kai->profession = "Programmer with No Grammer";
